@@ -15,6 +15,7 @@ In directory /server: npm run start
 
 ![landing page](/architecture.JPG)
 ![landing page](/screenshot1.JPG)
+![landing page](/screenshot2.JPG)
 
 
 ## Built With
