@@ -20,7 +20,7 @@ In directory /server: npm run start
 * MongoDB
 * Mongoose Schema
 
-![landing page](/architecture.JPG)
+![landing page](/architecture.jpg)
 ![landing page](/screenshot1.JPG)
 ![landing page](/screenshot2.JPG)
 
